@@ -431,6 +431,10 @@ H5{
     
 
 }
+.mega-menu ul li:hover {
+    font-weight: bolder;
+}
+ 
 
 
 .c-1{
